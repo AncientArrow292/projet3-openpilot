@@ -3,7 +3,7 @@
 **Sujet :** Évaluer openpilot (comma.ai) comme aide à la conduite IA open source, comparé à Tesla FSD (Supervised)  
 **Membres :** Joshua Leclerc  
 **Dépôt GitHub :** https://github.com/AncientArrow292/projet3-openpilot  
-**Invitation enseignant envoyée :** Oui / Non (nicolas.payre@cegepsherbrooke.qc.ca)  
+**Invitation enseignant envoyée :** Oui (nicolas.payre@cegepsherbrooke.qc.ca)  
 **Date :** 2026-11-11
 
 ## La Technologie que l'on veut étudier
