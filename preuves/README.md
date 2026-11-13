@@ -12,3 +12,7 @@
 | `test5_replay_ia_en_direct_courbe.png` | Rejeu à 0,2× avec `modeld` exécuté sur le PC : trajectoire qui suit une courbe en ville |
 | `test5_replay_ia_en_direct_autoroute_hz.png` | Rejeu à 0,2× sur autoroute : lignes, trajectoire et véhicule devant (chevron jaune) + mesures de fréquence |
 | `test5_frequences_replay.txt` | Fréquences en rejeu à 0,2× : caméra 4 Hz, `modelV2` ~3,9 Hz en moyenne (~97 % des images), tout valide |
+
+## Cas ratés (test 5)
+
+Aucune erreur visible sur la route de démo (lignes, trajectoire et véhicule devant toujours détectés). Échantillon limité : une seule route, de jour, par temps clair.
