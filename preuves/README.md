@@ -13,6 +13,8 @@
 | `test5_replay_ia_en_direct_autoroute_hz.png` | Rejeu à 0,2× sur autoroute : lignes, trajectoire et véhicule devant (chevron jaune) + mesures de fréquence |
 | `test5_vehicule_devant_arret.png` | Extrait de la vidéo de démonstration (rejeu, IA sur le PC, enregistrement accéléré 5×) : arrêt derrière un véhicule, chevron rouge = véhicule devant proche détecté |
 | `demo_replay_ia_en_direct_x5.mp4` | **Vidéo enregistrée** (1 min 24 s), accélérée 5× : rejeu à 0,2× de la route de démo, IA calculée sur le PC. Vidéo de secours pour la démonstration |
+| `demo_simulation_conduite_manuelle.mp4` | **Vidéo enregistrée** (1 min 11 s, vitesse réelle) : simulation MetaDrive, conduite manuelle au clavier jusqu'à ~15 mph, trajectoire de l'IA affichée, sortie de route puis retour à l'écran hors route. L'alerte « Communication Issue » n'y apparaît pas (voir la capture `sim_alerte_communication_issue.png`) |
+| `demo_simulation_planche.png` | Une image toutes les 4 s de la vidéo ci-dessus ; on y voit aussi l'avertissement « This branch is not tested (master) » |
 | `test5_frequences_replay.txt` | Fréquences en rejeu à 0,2× : caméra 4 Hz, `modelV2` ~3,9 Hz en moyenne (~97 % des images), tout valide |
 
 ## Cas ratés (test 5)
