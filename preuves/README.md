@@ -2,6 +2,7 @@
 
 | Fichier | Contenu |
 |---------|---------|
+| `sim_ui_plantee_engaged_false.png` | Avant le correctif : `ui` en rouge (plante) dans la liste des processus, `Engaged: False` malgré la touche 2 |
 | `sim_ui_fonctionnelle.png` | UI openpilot fonctionnelle dans MetaDrive après le contournement `BIG=1 SCALE=0.5` |
 | `sim_alerte_communication_issue.png` | Alerte « Communication Issue Between Processes » : openpilot refuse de s'engager (échec sécuritaire) |
 | `test4_htop_simulation.png` | Ressources pendant la simulation : `modeld` ~100 % d'un cœur, `run_bridge.py` ~45+33 %, UI ~29 % |
