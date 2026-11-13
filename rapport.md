@@ -147,7 +147,7 @@ Les résultats attendus ont été définis dans la proposition, avant les essais
 ### Ce que les tests permettent et ne permettent pas d'affirmer
 
 - **Ils permettent d'affirmer :** la perception du modèle est correcte sur la route de démo ; openpilot détecte des données trop lentes et refuse de s'engager ; sur un CPU de bureau, le modèle tourne à environ 4 Hz au lieu de 20 Hz.
-- **Ils ne permettent pas d'affirmer :** que le contrôle (direction, freinage) fonctionne, puisqu'il n'a pas été testé ; que la perception est fiable la nuit, sous la pluie, dans la neige ou avec des lignes effacées (une seule route, de jour) ; que les performances seraient les mêmes sur l'appareil comma, qui a une puce dédiée.
+- **Ils ne permettent pas d'affirmer :** que le contrôle (direction, freinage) fonctionne, puisqu'il n'a pas été testé ; que la perception est fiable la nuit, sous la pluie, dans la neige ou avec des lignes effacées (une seule route, de jour) ; que les performances seraient les mêmes sur l'appareil comma, qui a une puce dédiée ; que les résultats valent pour une version publiée, puisque l'UI indique « This branch is not tested (master) » : nous avons testé la branche de développement.
 
 ## 6. Comparaison avec Tesla FSD (Supervised)
 
