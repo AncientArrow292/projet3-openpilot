@@ -1,0 +1,54 @@
+  File "/home/josh/openpilot/openpilot/cereal/messaging/__init__.py", line 190, in __init__
+    on_demand = {s: SERVICE_LIST[s].frequency <= 1e-5 for s in services}
+                    ~~~~~~~~~~~~^^^
+KeyError: 'roadCameraState'
+(openpilot) josh@Josh-PC-Linux:~/openpilot$ sed -i "s/'roadCameraState'/'narrowRoadCameraState'/" ~/watch_hz.py
+python ~/watch_hz.py
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 0Hz valid=False | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 4Hz valid=True | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 20Hz valid=True | modelV2: 0Hz valid=False | cameraOdometry: 0Hz valid=False | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=False | carState: 0Hz valid=False
+narrowRoadCameraState: 16Hz valid=True | modelV2: 2Hz valid=True | cameraOdometry: 2Hz valid=False | deviceMotion: 2Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 83Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 15Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=False | deviceMotion: 3Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 15Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=False | deviceMotion: 3Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 3Hz valid=False | deviceMotion: 3Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 15Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=False | deviceMotion: 3Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=False | deviceMotion: 3Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 15Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 16Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=False | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 17Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=False | deviceMotion: 3Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 100Hz valid=True
+narrowRoadCameraState: 14Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=False | extrinsicsCalibration: 2Hz valid=False | carState: 85Hz valid=True
+narrowRoadCameraState: 0Hz valid=True | modelV2: 0Hz valid=True | cameraOdometry: 0Hz valid=True | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 2Hz valid=True | carState: 48Hz valid=True
+narrowRoadCameraState: 0Hz valid=True | modelV2: 0Hz valid=True | cameraOdometry: 0Hz valid=True | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 2Hz valid=True | carState: 46Hz valid=True
+narrowRoadCameraState: 0Hz valid=True | modelV2: 0Hz valid=True | cameraOdometry: 0Hz valid=True | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=True | carState: 0Hz valid=True
+narrowRoadCameraState: 0Hz valid=True | modelV2: 0Hz valid=True | cameraOdometry: 0Hz valid=True | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=True | carState: 0Hz valid=True
+narrowRoadCameraState: 0Hz valid=True | modelV2: 0Hz valid=True | cameraOdometry: 0Hz valid=True | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=True | carState: 0Hz valid=True
+narrowRoadCameraState: 0Hz valid=True | modelV2: 0Hz valid=True | cameraOdometry: 0Hz valid=True | deviceMotion: 0Hz valid=False | extrinsicsCalibration: 0Hz valid=True | carState: 0Hz valid=True
+^CTraceback (most recent call last):
+  File "/home/josh/watch_hz.py", line 12, in <module>
+    sm.update(100)
+  File "/home/josh/openpilot/openpilot/cereal/messaging/__init__.py", line 231, in update
+    for sock in self.poller.poll(timeout):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+(openpilot) josh@Josh-PC-Linux:~/openpilot$ 
+

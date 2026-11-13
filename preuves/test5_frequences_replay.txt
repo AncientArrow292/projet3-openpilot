@@ -1,0 +1,59 @@
+josh@Josh-PC-Linux:~$ cd ~/openpilot && source .venv/bin/activate
+python ~/watch_hz.py
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 3Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 19Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 3Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 3Hz valid=True | cameraOdometry: 3Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 1Hz valid=True | carState: 20Hz valid=True
+narrowRoadCameraState: 4Hz valid=True | modelV2: 4Hz valid=True | cameraOdometry: 4Hz valid=True | deviceMotion: 4Hz valid=True | extrinsicsCalibration: 0Hz valid=True | carState: 20Hz valid=True
+^X^CTraceback (most recent call last):
+  File "/home/josh/watch_hz.py", line 12, in <module>
+    sm.update(100)
+  File "/home/josh/openpilot/openpilot/cereal/messaging/__init__.py", line 231, in update
+    for sock in self.poller.poll(timeout):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+(openpilot) josh@Josh-PC-Linux:~/openpilot$ 
