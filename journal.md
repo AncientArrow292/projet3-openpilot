@@ -13,6 +13,7 @@
 | 2026-11-13 | Joshua Leclerc | Test 5 : rejeu avec IA en direct | `replay --demo -b modelV2,cameraOdometry -x 0.2` + `modeld` lancé seul + UI (`BIG=1 SCALE=0.5`). Mesure : caméra 4 Hz, `modelV2` 4 Hz, `cameraOdometry`/`deviceMotion` valides, `carState` 20 Hz (= 100 Hz × 0,2). Le modèle traite environ 100 % des images à 0,2×. Trajectoire qui suit les courbes, lignes de voie et véhicule devant (chevron jaune) détectés. Captures dans `preuves/`. | Bloquer aussi `drivingModelData`, captures des cas ratés, rédaction |
 | 2026-11-13 | Joshua Leclerc | Test 5 : recherche de cas ratés | Route de démo parcourue au complet (rejeu à 0,2×, `modeld` sur le PC) : aucune erreur visible (lignes, trajectoire et véhicule devant toujours détectés). Limite : une seule route, de jour, temps clair ; on ne peut pas généraliser (nuit, pluie, neige, lignes effacées non testés). | Rédaction du rapport |
 | 2026-11-13 | Joshua Leclerc | Vidéos de secours pour la démo | Rejeu (IA sur le PC) enregistré avec `RECORD=1` puis accéléré 5× avec ffmpeg (`setpts=PTS/5,fps=30`) ; `RECORD_SPEED` ne marchait pas (images dupliquées). Simulation enregistrée : conduite manuelle et sortie de route, mais l'alerte n'a pas été captée (l'UI redémarre et écrase le fichier). L'UI affiche « This branch is not tested (master) » : la version testée est la branche de développement, pas une version publiée. | Démonstration (cours 14) |
+| 2026-11-25 | Joshua Leclerc | Rapport d'avancement | `avancement.md` créé (état par étape, captures, résultats, changement par rapport à la proposition) pour montrer le travail à l'enseignant. | Faire approuver le changement de tests, préparer la démo |
 
 ## Veille
 
@@ -25,3 +26,4 @@
 | Date | Agent | Objectif | Apport retenu | Vérification |
 |------|-------|----------|---------------|--------------|
 | 2026-11-11 | Claude | Rédiger la proposition, choisir l'environnement d'essai | Structure de la proposition, tests, commandes d'installation | Commandes et sources à vérifier dans la doc officielle |
+| 2026-11-25 | Claude | Rédiger le rapport d'avancement | Structure et texte d'`avancement.md` à partir du journal et des preuves | Contenu relu par Josh ; chaque chiffre vient d'une preuve dans `preuves/` |
